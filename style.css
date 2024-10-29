@@ -201,3 +201,29 @@
     top: 2465px;
     left: -55px;
 }
+/* For Card Section */
+#cardHeader{
+    font-family: Nexa-Trial Heavy;
+    font-size: 35px;
+}
+#allCard{
+    height: 417px;
+}
+.card-text{
+    font-family: "Quicksand", sans-serif;
+}
+
+#cardButton{
+    font-family: "Quicksand", sans-serif;
+    background-color:#FE8C45;
+    width: 180px;
+    height: 40px;
+    border-radius: 40px;
+    text-align: center;
+}
+.card:hover {
+    background-color: #000;
+    border: 1px solid #ddd;
+    transform: scale(1.02);
+    color: aliceblue;
+}
