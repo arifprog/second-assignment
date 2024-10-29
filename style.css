@@ -323,3 +323,42 @@
     /* left: -55px; */
 
 }
+/* For contact Section */
+#contactSec{
+    /* width: 1240px; */
+    height: 589px;
+    margin-top: 200px;
+    font-family: "Quicksand", sans-serif;
+}
+#halfContact{
+    width: 50%;
+    height: 589px;
+}
+#contactQ{
+    font-family: Nexa-Trial Heavy;
+}
+#contactPara{
+    width: 571px;
+    height: 77px;
+}
+#contactBox{
+    width: 503px;
+    height: 433px;
+    background-color: #8a47f62b;
+}
+#iconBg{
+    background-color: #8A47F6;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    & i{
+       
+        font-size: 20px;
+        color: aliceblue;
+        margin-left: 4px;   
+    }
+
+}
+#iconBgl{
+    font-size: 20px;
+}
