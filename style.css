@@ -283,3 +283,14 @@
     bottom: -2996px;
     left: 420px;   
 }
+/* For linear testimonial */
+#orange2{
+    background: linear-gradient(to bottom, rgba(255, 106, 0, 0.068), rgba(255, 165, 0, 0));
+    width: 314px;
+    height: 314px;
+    border-radius: 50%;
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 3090px;
+    right: -95px;
+}
