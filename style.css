@@ -311,3 +311,15 @@
     border-radius: 40px;
     text-align: center;
 }
+/* For linear last gallery */
+#valvet1{
+    background: linear-gradient(to top, rgba(138, 71, 246, 0.091), rgba(138, 71, 246, 0));
+    width: 316px;
+    height: 316px;
+    border-radius: 50%;
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 4560px;
+    /* left: -55px; */
+
+}
