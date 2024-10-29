@@ -28,3 +28,55 @@
     border-radius: 40px;
     cursor: pointer;
 }
+/* For Hero section */
+
+#moments{
+    width: 39%;
+    height: 680px;
+    /* border: 1px solid green; */
+}
+#slideImage{
+    width: 61%;
+    height: 680px;
+    /* border: 1px solid rgb(128, 38, 0); */
+}
+#rowhalf{
+    width: 100%;
+    height: 250px;
+}
+#rowfull{
+    width: 100%;
+    height: 430px;
+}
+#momentsH1{
+    color: #111111;
+    font-size: 75px;
+    height: 312px;
+    width: 100%;
+    font-family: Nexa Bold;
+
+    & span{
+        color: rgb(138, 71, 246);
+    }
+}
+#momentsPara{
+    font-family: "Quicksand", sans-serif;
+}
+#momentsButton{
+    font-family: "Quicksand", sans-serif;
+    background-color:#FE8C45;
+    width: 260px;
+    height: 52px;
+    border-radius: 40px;
+}
+.carousel-image{
+    height: 92vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+#demo{
+    width: 100%;
+    height: 680px;
+}
