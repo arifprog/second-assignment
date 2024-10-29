@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@font-face {
+    font-family: Nexa Bold;
+    src: url(nexa/Nexa-Trial-Bold.ttf);
+}
+@font-face {
+    font-family: Nexa-Trial Heavy ;
+    src: url(nexa/Nexa-Trial-Heavy.ttf);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* For navbar */
+
+#ulNavbar{
+    font-family: "Quicksand", sans-serif;
+    margin-left: 7em;
+}
+#buttonNavbar{
+    font-family: "Quicksand", sans-serif;
+    background-color:#FE8C45;
+    width: 187px;
+    height: 52px;
+    border-radius: 40px;
+    cursor: pointer;
+}
