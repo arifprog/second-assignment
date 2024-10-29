@@ -102,3 +102,63 @@
     left: -55px;
 
 }
+/* For Skilled Section */
+
+#SkilledSection{
+    width: 100%;
+    height: 655px;
+    background-color: #8a47f62f;
+    ;
+}
+#skillHalf{
+    width: 50%;
+    height: 655px;
+}
+#skillFull{
+    width: 50%;
+    height: 655px;
+    font-family: "Quicksand", sans-serif;
+}
+
+#sline{
+    border: 1px solid #8A47F6;
+    width: 19px;
+    /* background-color: aqua; */
+    position: relative;
+}
+#lineAbout{
+    position: absolute;
+    display: block;
+    bottom: -148px;
+    left: 700px;
+    font-size: large;
+    text-align: center;
+}
+#aboutHeader{
+    font-family: Nexa-Trial Heavy ;
+    width: 520px;
+    height: 110px;
+    font-size: 48px;
+
+    & span{
+        color: #8A47F6;
+    }   
+}
+#aboutPara1{
+    width: 594px;
+    height: 161px;
+    color: #333333;
+    ;
+}
+#aboutPara2{
+    width: 599px;
+    height: 49px;
+    color: #333333;
+}
+#aboutButton{
+    font-family: "Quicksand", sans-serif;
+    background-color:#FE8C45;
+    width: 230px;
+    height: 52px;
+    border-radius: 40px;
+}
